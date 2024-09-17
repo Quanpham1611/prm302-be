@@ -24,4 +24,8 @@ public class Product {
     private String imageLink;
 
     private String type;
+
+    private int purchaseCount;
+
+    private double rate;
 }
